@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Android build
+android/app/build/
+android/.gradle/
+
+# iOS build
+ios/Pods/
+ios/build/
+
+# VSCode
+.vscode/
+
+# Test coverage
+coverage/
+
+# Env fajlovi
+.env
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo

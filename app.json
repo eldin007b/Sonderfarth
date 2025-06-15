@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Sonderfahrt GLS",
+    "slug": "snack-ba6fdecd-b581-4b6e-8923-cc680cab73ab",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.eldin007.snackba6fdecdb5814b6e8923cc680cab73ab",
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/eldin007b/Delivery @ Jun 4, 2025",
+    "plugins": [  ],
+    "extra": {
+      "eas": {
+        "projectId": "aea9632d-dd39-4cad-9178-f35572571b52"
+      }
+    }
+  }
+}
